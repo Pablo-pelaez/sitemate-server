@@ -1,0 +1,167 @@
+[
+  {
+    "id": 2,
+    "title": "Feature - User Profile Page",
+    "description": "Implement a user profile page with customization options."
+  },
+  {
+    "id": 3,
+    "title": "Enhancement - Dashboard UI",
+    "description": "Improve the user interface of the dashboard for better user experience."
+  },
+  {
+    "id": 4,
+    "title": "Critical Bug - Data Loss",
+    "description": "Address critical bug causing data loss in the system."
+  },
+  {
+    "id": 5,
+    "title": "New Feature - Notifications",
+    "description": "Introduce a notification system for real-time updates."
+  },
+  {
+    "id": 6,
+    "title": "Performance Improvement - Database Queries",
+    "description": "Optimize database queries to enhance system performance."
+  },
+  {
+    "id": 7,
+    "title": "Usability Enhancement - Navigation Menu",
+    "description": "Refine the navigation menu for improved usability."
+  },
+  {
+    "id": 8,
+    "title": "Security Patch - Authorization",
+    "description": "Apply security patch to fix authorization vulnerabilities."
+  },
+  {
+    "id": 9,
+    "title": "Feature - File Upload",
+    "description": "Add file upload functionality for user uploads."
+  },
+  {
+    "id": 10,
+    "title": "Bug Fix - Mobile Responsiveness",
+    "description": "Correct issues affecting the mobile responsiveness of the application."
+  },
+  {
+    "id": 11,
+    "title": "Enhancement - Search Functionality",
+    "description": "Enhance search functionality for quicker and more accurate results."
+  },
+  {
+    "id": 12,
+    "title": "Critical Bug - System Crash",
+    "description": "Resolve critical bug causing system crashes in certain scenarios."
+  },
+  {
+    "id": 13,
+    "title": "Feature - Dark Mode",
+    "description": "Implement dark mode option for users who prefer a darker interface."
+  },
+  {
+    "id": 14,
+    "title": "Performance Optimization - Image Loading",
+    "description": "Optimize image loading for faster page rendering."
+  },
+  {
+    "id": 15,
+    "title": "Bug Fix - Email Notifications",
+    "description": "Fix issues with email notifications not being sent properly."
+  },
+  {
+    "id": 16,
+    "title": "Usability Improvement - Form Validation",
+    "description": "Improve form validation to provide better user feedback."
+  },
+  {
+    "id": 17,
+    "title": "Feature - Chat Integration",
+    "description": "Integrate a chat system for users to communicate within the application."
+  },
+  {
+    "id": 18,
+    "title": "Critical Bug - Data Corruption",
+    "description": "Address critical bug causing data corruption in the system."
+  },
+  {
+    "id": 19,
+    "title": "Enhancement - Dashboard Widgets",
+    "description": "Add customizable widgets to the dashboard for a personalized experience."
+  },
+  {
+    "id": 20,
+    "title": "Bug Fix - Cross-Browser Compatibility",
+    "description": "Ensure cross-browser compatibility to eliminate rendering issues."
+  },
+  {
+    "id": 21,
+    "title": "Feature - Multi-Language Support",
+    "description": "Introduce multi-language support for a diverse user base."
+  },
+  {
+    "id": 22,
+    "title": "Performance Enhancement - Caching",
+    "description": "Implement caching mechanism to improve overall application performance."
+  },
+  {
+    "id": 23,
+    "title": "Feature - Social Media Integration",
+    "description": "Integrate social media sharing options within the application."
+  },
+  {
+    "id": 24,
+    "title": "Bug Fix - Data Synchronization",
+    "description": "Fix issues related to data synchronization between server and client."
+  },
+  {
+    "id": 25,
+    "title": "Enhancement - User Permissions",
+    "description": "Refine user permission settings for improved access control."
+  },
+  {
+    "id": 26,
+    "title": "Security Update - SSL Implementation",
+    "description": "Implement SSL for enhanced security during data transmission."
+  },
+  {
+    "id": 27,
+    "title": "Bug Fix - Broken Links",
+    "description": "Address issues with broken links affecting the user experience."
+  },
+  {
+    "id": 28,
+    "title": "Usability Enhancement - Tooltips",
+    "description": "Add informative tooltips to guide users through the application."
+  },
+  {
+    "id": 29,
+    "title": "Feature - Task Scheduler",
+    "description": "Introduce a task scheduling feature for users to manage their tasks."
+  },
+  {
+    "id": 30,
+    "title": "Bug Fix - Form Submission",
+    "description": "Fix bugs related to form submission errors and inconsistencies."
+  },
+  {
+    "id": 31,
+    "title": "Enhancement - Email Templates",
+    "description": "Improve email templates for better communication with users."
+  },
+  {
+    "id": 32,
+    "title": "Critical Bug - User Data Exposure",
+    "description": "Address critical bug exposing sensitive user data."
+  },
+  {
+    "id": 33,
+    "title": "Bug Fix - Login Page1",
+    "description": "Fix authentication issue on the login page.1"
+  },
+  {
+    "id": 33,
+    "title": "New Issue",
+    "description": "This is a new issue"
+  }
+]
